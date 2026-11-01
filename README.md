@@ -1,3 +1,3 @@
-# this is my Frist repo uploaded ot github
+# this is my Frist repo  to be uploaded on github
 
 # oyetunji
